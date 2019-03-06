@@ -3,3 +3,6 @@
 ################################################################################
 
 /RabbitMqReceive/obj
+/RabbitMqReceive/bin/Debug
+/packages
+/.vs
